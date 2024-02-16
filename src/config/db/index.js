@@ -4,7 +4,8 @@ async function connect() {
     try {
         await mongoose.connect('mongodb://127.0.0.1:27017/f8_education_dev', {
             // useNewUrlParse: true,
-            // useUnifiedTopology: true
+            // useUnifiedTopology: true,
+            // useCreateIndex: true
         });
         console.log('okokok');
     } catch (error) {
