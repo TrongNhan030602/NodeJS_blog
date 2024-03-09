@@ -8,3 +8,14 @@
     width: 30px;
     border-radius: 50%;
 }
+
+.checkbox-select-all-opts {
+    width: 160px;
+    margin: 0 16px;
+}
+
+// Check one/all option--> submit()
+.disabled {
+    pointer-events: none;
+    cursor: default;
+}
