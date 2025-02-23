@@ -2,5 +2,5 @@
 
 Dự án gồm :
   1. FrontEnd: Sử dụng template engine (Handlebars).
-  2. BackEnd: NodeJS (EXpress), MongoDB (moogoose).
+  2. BackEnd: NodeJS (EXpress), MongoDB (Mongoose).
   3. Đặc biệt dự án hỗ trợ chức năng soft delete.
